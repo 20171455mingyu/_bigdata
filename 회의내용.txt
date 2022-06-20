@@ -1,0 +1,56 @@
+[오후 10:17] 수민: http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&CONT_SEQ=369665
+[오후 10:18] 수민: http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&CONT_SEQ=257282
+[오후 10:28] 인식2세: https://www.busan50plus.or.kr/
+[오후 10:28] 영준:
+수행기관,사업명,유형,인원
+대한노인회, 노노케어(연중) , 공익 ,120
+대한노인회, 노노케어(11개월) , 공익 ,80
+대한노인회, 환경지킴이 , 공익 ,130
+대한노인회, 지하철안전지킴이 , 공익 ,140
+대한노인회, 쌈지공원지킴이 , 공익 ,54
+확장
+10_21_2021.csv
+3KB
+읍면동,65세이상 전체 노인수,독거노인수,합계(남),만65-79세(남),만80세이상(남),합계(여),만65-79세(여),만80세이상(여)
+ 거제1동 ,5072,1266,354,265,89,912,641,271
+ 거제2동 ,2101,433,126,99,27,307,215,92
+ 거제3동 ,2858,752,216,168,48,536,337,199
+ 거제4동 ,2197,446,138,115,23,308,216,92
+ 연산1동 ,3410,763,218,185,33,545,413,132
+확장
+20220401.csv
+1KB
+[오후 10:34] 수민: https://news.seoul.go.kr/welfare/archives/409
+[오후 10:34] 수민: 노노케어는 살고 계신 읍·면·동 사무소, 대한노인회, 시니어클럽, 노인복지문화센터 등 노인 사회 활동 지원 사업을 수행하고 있는 기관에서 직접 신청 할 수 있는데요. 지자체별로 일정 등으 차이가 있으니 확인 후 신청하시기 바랍니다.
+[오후 10:43] 영준: https://www.yna.co.kr/view/AKR20200930028900530
+[오후 10:44] 수민: https://www.seniorro.or.kr:4431/seniorro/main/main.do
+[오후 10:47] 수민:
+첨부 파일 형식: unknown
+unknown.png
+184.09 KB
+[오후 10:48] 수민: https://kordi.or.kr/content.do?bid=248&mode=view&page=&cid=435326&sf_category=N107_2&cmsId=174
+[오후 10:57] 인식2세: https://github.com/tjgmlfbs124/Outsourcing-HighFinderApp
+[오후 11:02] 영준: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07429978&mark=0&useDate=2022-05-03&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true
+[오후 11:02] 영준: 노인의 일자리참여활동이 우울에 미치는 영향: 자아존중감의 매개역할을 중심으로
+[오후 11:04] 인식2세:
+첨부 파일 형식: acrobat
+5b8d0b64730f627a.pdf
+1.08 MB
+[오후 11:12] 인식2세: https://www.data.go.kr/data/15072625/fileData.do
+[오후 11:15] 수민: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07565765
+[오후 11:19] 수민: 비용편익분석을 통한 노인일자리 및 사회활동지원사업의사회경제적 효과 공익활동과 시장형 사업단을 중심으로:
+[오후 11:21] 수민: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiOrteView.kci?sereArticleSearchBean.artiId=ART002594584
+[오후 11:22] 영준:
+첨부 파일 형식: acrobat
+8ea601508ecfb654.pdf
+1,000.69 KB
+[오후 11:22] 수민: 노인 일자리 관련 사업 참여 전후 건강상태 변화
+[오후 11:22] 영준: 고독사 위험과 대비에 대한 인식이 독거노인의 시설 돌봄 선호에 미치는 영향
+[오후 11:25] 인식2세:
+첨부 파일 형식: unknown
+unknown.png
+108.60 KB
+[오후 11:29] 인식2세: https://www.kordi.or.kr/content.do?bid=248&mode=view&page=1&cid=435326&sf_category=N107_2&cmsId=174
+[오후 11:51] 수민: 저희 조의 주제는 노인 일자리와 고독사 문제를 노노케어로 개선입니다.
+
+문제점으로는 일자리 관련 기업이나 고독사 비중이 어느정도인지 등의 데이터 부족과 사업화로 어떻게 연결할건지가 있습니다.
